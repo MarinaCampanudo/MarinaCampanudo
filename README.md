@@ -6,6 +6,5 @@ I'm a Front End Developer, and I have a Production Engineering degree. I'm alway
 
 :bust_in_silhouette: [Linkedin](linkedin.com/in/marina-ferreira-santos-campanudo-7a6b81100)
 
-:email: [maricampanudo@hotmail.com](maricampanudo@hotmail.com)
 
 :computer: [Portfolio](https://github.com/MarinaCampanudo/portfolio)
